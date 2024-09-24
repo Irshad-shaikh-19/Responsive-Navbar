@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.nav-item a{
+    color: white !important;
+} 
+
+.search-btn{
+    border: 1px solid white !important;
+}
+
+.dropdown-item:hover{
+    color: black !important;
+}
