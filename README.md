@@ -1,0 +1,1 @@
+![screencapture-file-C-felix-HTML-CSS-BOOTSTRAP-Practical-Exams-Assignments-Assignment-3-Task-1-index-html-2024-09-24-21_17_06](https://github.com/user-attachments/assets/b662b48a-903b-4208-a462-625616ceebbc)
